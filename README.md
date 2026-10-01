@@ -6,12 +6,13 @@ I’m interested in how models fit into complete systems: preparing data, retrie
 
 ## Selected projects
 
-| Project | Focus | Implementation |
-| --- | --- | --- |
-| [DSpro](https://github.com/RAMZI0TO99/DSpro) | Local-first video search and chat | Multimodal retrieval, FastAPI, and Qdrant |
-| [WPMS](https://github.com/RAMZI0TO99/WPMS) | Computer-vision monitoring prototype | Detection, tracking, event logging, and a Streamlit dashboard |
-| [Beyond Uncertainty](https://github.com/RAMZI0TO99/beyond-uncertainty) | Ongoing research into data and model-class failures in world models | PyTorch experiments, diagnostic infrastructure, and reproducibility records |
-| [Real-Time Market Lakehouse](https://github.com/RAMZI0TO99/realtime-market-lakehouse) | Streaming analytics with experimental anomaly detection | Kafka, Spark, Delta Lake, FastAPI, and a Next.js dashboard |
+- **[DSpro](https://github.com/RAMZI0TO99/DSpro)** — Local-first video search and chat using multimodal retrieval, FastAPI, and Qdrant.
+
+- **[WPMS](https://github.com/RAMZI0TO99/WPMS)** — Computer-vision monitoring prototype combining detection, tracking, event logging, and a Streamlit dashboard.
+
+- **[Beyond Uncertainty](https://github.com/RAMZI0TO99/beyond-uncertainty)** — Ongoing research into data and model-class failures in world models, with PyTorch experiments, diagnostic infrastructure, and reproducibility records.
+
+- **[Real-Time Market Lakehouse](https://github.com/RAMZI0TO99/realtime-market-lakehouse)** — Streaming analytics and experimental anomaly detection with Kafka, Spark, Delta Lake, FastAPI, and a Next.js dashboard.
 
 Each repository explains its architecture, setup, and current limitations.
 
